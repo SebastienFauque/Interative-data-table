@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import DataTable from './dataTable/DataTable'
 
 ReactDOM.render(
   <React.StrictMode>
